@@ -1,0 +1,26 @@
+.container{
+    border: 2px solid black;
+    border-radius: 3px;
+}
+
+#header{
+    background-color: lightblue;
+}
+
+.col-3{
+    background-color: cyan;
+}
+.col-12 a{
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+
+.row .col-12 p{
+    text-align: right;
+}
+
+.row .col-3 li a{
+    color: black;
+}
